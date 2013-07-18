@@ -1,3 +1,5 @@
+/* Run process without console window (just for windows). */
+
 #include <Windows.h>
 #include <tchar.h>
 

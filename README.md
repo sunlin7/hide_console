@@ -1,4 +1,4 @@
 hide_console
 ============
 
-Run the console process without console on windows.
+Run process without console window (just for windows).
